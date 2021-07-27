@@ -1,3 +1,3 @@
 # UnityCoursework
 MyUnityСoursework
-Phisics Lab on Unity
+Physics Lab on Unity
